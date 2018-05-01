@@ -1,4 +1,4 @@
-# Servlet 3.0 asynchronoues processing in spring boot
+# Servlet 3.0 asynchronous processing in spring boot
 
 #### Servlet 3.0 asynchronous
 - https://www.javaworld.com/article/2077995/java-concurrency/java-concurrency-asynchronous-processing-support-in-servlet-3-0.html
